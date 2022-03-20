@@ -1,6 +1,6 @@
 https://www.thegeekstuff.com/2011/12/c-socket-programming/
 
-运行server`./server`, 结束进程`ctrl+z`
+运行server`./server`, 结束进程`ctrl+c`
 
 查看端口占用情况`netstat -f inet -an | grep 5000`
 
